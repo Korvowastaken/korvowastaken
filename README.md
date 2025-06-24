@@ -37,7 +37,9 @@
 
 ###
 
-<div align="center">
+###
+
+<div align="left">
   <a href="robelyakobpoll@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
@@ -54,7 +56,10 @@
   
 </div>
 
-##
+###
+
+###
+
 
 <div align="center">
   <a href="https://open.spotify.com/user/rsbj4urujxa4a0wfymfgr79ek">
