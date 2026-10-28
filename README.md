@@ -1,6 +1,6 @@
-<a href="https://open.spotify.com/user/rsbj4urujxa4a0wfymfgr79ek"><img align="right" src="https://spotify-github-profile.kittinanx.com/api/view?uid=rsbj4urujxa4a0wfymfgr79ek&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify now playing" /></a>
-
 # Robel Yakob
+
+<a href="https://open.spotify.com/user/rsbj4urujxa4a0wfymfgr79ek"><img align="right" src="https://spotify-github-profile.kittinanx.com/api/view?uid=rsbj4urujxa4a0wfymfgr79ek&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify now playing" /></a>
 
 Software developer in Addis Ababa, Ethiopia. I graduated from HilCoE School of Computer Science & Technology in 2025 and build web apps with React, Vite and Supabase. Currently learning Go. Outside of code: video games and movies.
 
@@ -9,21 +9,18 @@ Software developer in Addis Ababa, Ethiopia. I graduated from HilCoE School of C
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/korvowastaken)
 [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/korvowastaken)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/korvowastaken/)
-<img src="https://visitor-badge.laobi.icu/badge?page_id=korvowastaken.korvowastaken" alt="Profile views" />
 
-## Projects
+### Projects
 
-| Project | What it does |
-| --- | --- |
-| [Chinka](https://ch1nka.vercel.app) | Spending tracker that reads Ethiopian bank SMS and emails, web and Android |
-| [8Ball](https://sports-by-robel.vercel.app) | Live football scores and fixtures |
-| [stuchi](https://stuchi.vercel.app) | Telegram chat exports in a chat-style UI |
-| [RambitJack](https://rabmitjack.vercel.app/) | Blackjack in React and Tailwind |
-| [Lawata](https://lawata.vercel.app) | Crowdfunding with risk scores and milestone escrow |
+- **[Chinka](https://ch1nka.vercel.app)**: Spending tracker that reads Ethiopian bank SMS and emails, web and Android
+- **[8Ball](https://sports-by-robel.vercel.app)**: Live football scores and fixtures
+- **[stuchi](https://stuchi.vercel.app)**: Telegram chat exports in a chat-style UI
+- **[RambitJack](https://rabmitjack.vercel.app/)**: Blackjack in React and Tailwind
+- **[Lawata](https://lawata.vercel.app)**: Crowdfunding with risk scores and milestone escrow
 
 <br clear="right" />
 
-## Tech
+### Tech
 
 <a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" width="48" alt="JavaScript" title="JavaScript" /></a>
 <a href="https://react.dev"><img src="https://skillicons.dev/icons?i=react" width="48" alt="React" title="React" /></a>
@@ -39,3 +36,5 @@ Software developer in Addis Ababa, Ethiopia. I graduated from HilCoE School of C
 <a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git" width="48" alt="Git" title="Git" /></a>
 <a href="https://vercel.com"><img src="https://skillicons.dev/icons?i=vercel" width="48" alt="Vercel" title="Vercel" /></a>
 <a href="https://www.figma.com"><img src="https://skillicons.dev/icons?i=figma" width="48" alt="Figma" title="Figma" /></a>
+
+<p align="right"><img src="https://visitor-badge.laobi.icu/badge?page_id=korvowastaken.korvowastaken&left_text=profile%20views&left_color=%23161b22&right_color=%23238636" alt="Profile views" /></p>
