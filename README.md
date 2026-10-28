@@ -13,17 +13,19 @@
 
 <br clear="both">
 
-<p align="left">I'm  Robel Yakob from Addis Ababa, Ethiopia<br><br>- 📚 I'm currently a Graduate from HilCoE School of Computer Science & Technology in 2025<br>- ⚡ In my free time I code and develop my skills, playing Video games and watching movies</p>
+<p align="left">I'm Robel Yakob from Addis Ababa, Ethiopia<br><br>- 📚 I graduated from HilCoE School of Computer Science & Technology in 2025<br>- 🔭 I build web apps with React, Vite and Supabase, and I'm learning Go<br>- ⚡ In my free time I code, play video games and watch movies</p>
+
+<h3 align="left">🚀 What I'm building</h3>
+
+- **[Chinka](https://ch1nka.vercel.app)**: tracks spending from Ethiopian bank SMS and emails, on the web and Android
+- **[8Ball](https://sports-by-robel.vercel.app)**: live football scores and fixtures
+- **[stuchi](https://stuchi.vercel.app)**: view Telegram chat exports in a chat-style UI
+- **[RambitJack](https://rabmitjack.vercel.app/)**: blackjack in React and Tailwind
+- **[Lawata](https://lawata.vercel.app)**: crowdfunding with risk scores and milestone escrow
 
 <h3 align="left">🛠 Language and tools</h3>
 
-###
-
-###
-
-###
-
-###
+<br>
 
 <div align="left" margin-top= "24px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
@@ -41,15 +43,21 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="40" alt="vitejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="40" alt="supabase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="40" alt="vercel logo"  />
 </div>
 
-###
-
-###
-
-###
-
-###
+<br>
 
 <div align="left">
   <a href="mailto:robelyakobpoll@gmail.com" target="_blank"  style = "margin-right: 12px">
@@ -68,13 +76,7 @@
   
 </div>
 
-###
-
-###
-
-###
-
-###
+<br>
 
 
 <div align="left">
