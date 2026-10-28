@@ -25,4 +25,17 @@ Software developer in Addis Ababa, Ethiopia. I graduated from HilCoE School of C
 
 ## Tech
 
-<img src="https://skillicons.dev/icons?i=js,react,vite,tailwind,html,css,nodejs,supabase,python,cpp,go,git,vercel,figma&perline=14" alt="JavaScript, React, Vite, Tailwind, HTML, CSS, Node.js, Supabase, Python, C++, Go, Git, Vercel, Figma" />
+<a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" width="48" alt="JavaScript" title="JavaScript" /></a>
+<a href="https://react.dev"><img src="https://skillicons.dev/icons?i=react" width="48" alt="React" title="React" /></a>
+<a href="https://vite.dev"><img src="https://skillicons.dev/icons?i=vite" width="48" alt="Vite" title="Vite" /></a>
+<a href="https://tailwindcss.com"><img src="https://skillicons.dev/icons?i=tailwind" width="48" alt="Tailwind CSS" title="Tailwind CSS" /></a>
+<a href="https://developer.mozilla.org/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" width="48" alt="HTML" title="HTML" /></a>
+<a href="https://developer.mozilla.org/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" width="48" alt="CSS" title="CSS" /></a>
+<a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs" width="48" alt="Node.js" title="Node.js" /></a>
+<a href="https://supabase.com"><img src="https://skillicons.dev/icons?i=supabase" width="48" alt="Supabase" title="Supabase" /></a>
+<a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python" width="48" alt="Python" title="Python" /></a>
+<a href="https://isocpp.org"><img src="https://skillicons.dev/icons?i=cpp" width="48" alt="C++" title="C++" /></a>
+<a href="https://go.dev"><img src="https://skillicons.dev/icons?i=go" width="48" alt="Go" title="Go" /></a>
+<a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git" width="48" alt="Git" title="Git" /></a>
+<a href="https://vercel.com"><img src="https://skillicons.dev/icons?i=vercel" width="48" alt="Vercel" title="Vercel" /></a>
+<a href="https://www.figma.com"><img src="https://skillicons.dev/icons?i=figma" width="48" alt="Figma" title="Figma" /></a>
