@@ -60,6 +60,9 @@
 <br>
 
 <div align="left">
+  <a href="https://robel-dev-six.vercel.app" target="_blank"  style = "margin-right: 12px">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio"  />
+  </a>
   <a href="mailto:robelyakobpoll@gmail.com" target="_blank"  style = "margin-right: 12px">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
