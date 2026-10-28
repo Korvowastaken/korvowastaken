@@ -1,6 +1,6 @@
 # Robel Yakob <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=korvowastaken.korvowastaken&left_text=profile%20views&left_color=%23161b22&right_color=%23238636" alt="Profile views" />
 
-<a href="https://open.spotify.com/user/rsbj4urujxa4a0wfymfgr79ek"><img align="right" src="https://spotify-github-profile.kittinanx.com/api/view?uid=rsbj4urujxa4a0wfymfgr79ek&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify now playing" /></a>
+<a href="https://open.spotify.com/user/rsbj4urujxa4a0wfymfgr79ek"><img align="right" width="240" src="https://spotify-github-profile.kittinanx.com/api/view?uid=rsbj4urujxa4a0wfymfgr79ek&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify now playing" /></a>
 
 Software developer in Addis Ababa, Ethiopia. I graduated from HilCoE School of Computer Science & Technology in 2025 and build web apps with React, Vite and Supabase. Currently learning Go. Outside of code: video games and movies.
 
