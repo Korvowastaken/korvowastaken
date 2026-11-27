@@ -36,3 +36,7 @@ Software developer in Addis Ababa, Ethiopia. I graduated from HilCoE School of C
 <a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git" width="48" alt="Git" title="Git" /></a>
 <a href="https://vercel.com"><img src="https://skillicons.dev/icons?i=vercel" width="48" alt="Vercel" title="Vercel" /></a>
 <a href="https://www.figma.com"><img src="https://skillicons.dev/icons?i=figma" width="48" alt="Figma" title="Figma" /></a>
+
+### Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=korvowastaken&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" width="100%" />
